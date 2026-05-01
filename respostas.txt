@@ -1,0 +1,70 @@
+WorldCups:
+
+Year	
+Country	Winner	
+Runners-Up	
+Third	
+Fourth	
+GoalsScored	
+QualifiedTeams	
+MatchesPlayed	
+Attendance
+
+
+WorldCupMatches:
+
+Year	
+Datetime	
+Stage	
+Stadium	City	
+Home Team Name	
+Home Team Goals	
+Away Team Goals	
+Away Team Name	
+Win conditions	
+Attendance	
+Half-time Home Goals	
+Half-time Away Goals	
+Referee
+Assistant 1	
+Assistant 2	
+RoundID	
+MatchID	
+Home Team Initials	
+Away Team Initials
+
+
+WorldCupPlayers:
+
+RoundID	
+MatchID	
+Team Initials	
+Coach Name	
+Line-up	
+Shirt Number	
+Player Name	Position	
+Event (acontecimentos, exemplo: Y27' G29' P71' O88' > Y: Cartão Amarelo; G: Gol; P: Penalti; O: Substituição; W: Gol Contra)
+
+
+CHAVES ESTRANGEIRAS:
+
+MatchID,
+Year
+
+
+PERGUNTAS:
+
+Países com mais copas do mundo?
+Espectadores ao longo dos anos
+10 Seleções que mais se qualificaram
+Mapa colorindo os países que já receberam uma copa do mundo
+Seleção artilheira em cada copa do mundo
+Jogos com mais espectadores de cada copa
+Técnicos das seleções campeãs de cada ano
+Top 5 Artilheiros de todas as copas
+Top 5 Cartões Amarelos
+Quantos cartões amarelos ja ocorreram nas copas
+Quantos cartões vermelhos ja ocorreram nas copas
+País com mais gols na história das copas
+
+
