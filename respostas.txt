@@ -66,5 +66,26 @@ Top 5 Cartões Amarelos
 Quantos cartões amarelos ja ocorreram nas copas
 Quantos cartões vermelhos ja ocorreram nas copas
 País com mais gols na história das copas
+Qual seleção tem a melhor média de gols por jogo na história
+Qual seleção tem o maior saldo de gols acumulado
+Qual seleção mais vezes ficou entre os 4 primeiros (consistência)
+Média de gols por jogo por edição
+Estádios com maior número de partidas sediadas
+Estádios com maior média de público
+Cidades que mais receberam jogos
+Qual estádio teve o jogo mais assistido da história
+Top jogos com menor público
+Comparação de publico com a final de cada copa em relação com a media de publico da fase de grupos da mesma copa
+Em que minuto saem mais gols
+Em que minuto saem mais cartões
+O futebol está ficando mais ofensivo ou defensivo ao longo dos anos?
+
+Linha do tempo → gols / público
+Mapa → países sede
+Barras → ranking de seleções
+Histograma → minutos dos gols
+Heatmap → intervalo de minutos X tipo de evento (G, Y, P, etc.)
+Cards → KPIs (total gols, cartões, etc.)
+Tabela interativa → jogadores
 
 
