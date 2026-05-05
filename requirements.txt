@@ -1,0 +1,19 @@
+pandas
+numpy
+
+# Excel
+openpyxl
+xlsxwriter
+
+# Notebooks
+jupyter
+notebook
+ipykernel
+
+# Visualização
+matplotlib
+seaborn
+plotly
+
+# Qualidade e utilidades
+python-dotenv
