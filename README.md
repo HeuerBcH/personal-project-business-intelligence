@@ -1,5 +1,7 @@
 👉 Use:
 
+Tratar dados de Attendance
+
 PROCV / XLOOKUP
 Tabelas estruturadas
 Filtros e validação
